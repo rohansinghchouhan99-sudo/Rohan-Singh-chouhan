@@ -43,7 +43,7 @@ My goal is to build a strong foundation in AI and programming, work on innovativ
 ---
 
 ## 🔗 Links
-- 🌐 **GitHub:** https://github.com/rohansinghchouhan 
+- 🌐 **GitHub:** https://github.com/rohansinghchouhan99-sudo 
 - 💼 **LinkedIn:**https://www.linkedin.com/in/rohan-singh-chouhan-192178377?utm_source=share_via&utm_content=profile&utm_medium=member_android  
 - 📄 **Google Docs:** https://docs.google.com/forms/d/e/1FAIpQLSeXV3u5O2X3xZyimnt80l0wS0e659Ijt9rsTZbe0KaNrjgRnw/viewform?usp=publish-editor
 -
